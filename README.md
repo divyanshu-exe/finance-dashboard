@@ -479,6 +479,6 @@ You are free to use, copy, modify, merge, publish, distribute, sublicense, and/o
 
 **Built with ❤️ using React + Vite + Tailwind CSS**
 
-Divyanshu Gupta © 2024 · MIT License
+Divyanshu Gupta © 2024 
 
 </div>
